@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Assets/Banner.png" alt="Adobe University Hackathon 2026 Banner">
+</p>
+
+---
+
 # ADOBE-UNIVERSITY-HACKATHON-2026
 
 Official team workspace for the Adobe University Hackathon 2026, featuring Round 1 preparation, solution ideation, research, architecture, AI development, prototype implementation, documentation, and final presentation materials.
