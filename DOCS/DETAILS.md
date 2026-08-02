@@ -1,7 +1,7 @@
-# 🚀 Adobe University Hackathon 2026
+# ✨ Adobe University Hackathon 2026
 
 <p align="center">
-  <img src="../Assets/Banner.png" width="100%">
+  <img src="../Assets/Banner-Adobe.png" width="100%">
 </p>
 
 > **Theme:** *Speak to Agents: The New Language of Brand Visibility*
