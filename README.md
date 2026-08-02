@@ -21,9 +21,9 @@ From Qualification Round to Grand Finale
 
 # 💡 About This Repository
 
-This repository serves as the official collaboration workspace for our participation in the **Adobe University Hackathon 2026**.
+- This repository serves as the official collaboration workspace for our participation in the **Adobe University Hackathon 2026**.
 
-It contains everything required throughout the competition, including Round 1 preparation, brainstorming sessions, research, architecture planning, development, testing, prototype showcase, documentation, deployment, and presentation materials.
+- It contains everything required throughout the competition, including Round 1 preparation, brainstorming sessions, research, architecture planning, development, testing, prototype showcase, documentation, deployment, and presentation materials.
 
 ---
 
