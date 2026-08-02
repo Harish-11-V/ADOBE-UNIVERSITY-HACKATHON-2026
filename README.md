@@ -200,22 +200,22 @@ Problem Analysis
 Idea Brainstorming
         │
         ▼
-Research
+    Research
         │
         ▼
 Architecture Design
         │
         ▼
-Development
+   Development
         │
         ▼
-Testing
+     Testing
         │
         ▼
-Prototype
+    Prototype
         │
         ▼
-Deployment
+    Deployment
         │
         ▼
 Final Presentation
