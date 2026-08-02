@@ -252,8 +252,8 @@ Upon successful completion of the hackathon, our team aims to:
 
 | Name | Role |
 |------|------|
-| Harish Kumar V | Frontend & AI Integration |
-| Lakshiya Sri K M | Backend & Product Development |
+| HARISH KUMAR V | Frontend & AI Integration |
+| LAKSHIYA SRI K M | Backend & Product Development |
 
 ---
 
