@@ -236,7 +236,7 @@ Upon successful completion of the hackathon, our team aims to:
 
 - 🏆 Qualify through all competition rounds
 - 💡 Build an innovative AI-powered solution
-- 🚀 Deliver a production-ready prototype
+- ✨ Deliver a production-ready prototype
 - 📈 Solve a real-world problem with measurable impact
 - 🎤 Present confidently at the Adobe Grand Finale
 
@@ -252,8 +252,8 @@ Upon successful completion of the hackathon, our team aims to:
 
 | Name | Role |
 |------|------|
-| Member 1 | Frontend & AI Integration |
-| Member 2 | Backend & Product Development |
+| Harish Kumar V | Frontend & AI Integration |
+| Lakshiya Sri K M | Backend & Product Development |
 
 ---
 
@@ -264,5 +264,5 @@ This repository is maintained exclusively for participation in the **Adobe Unive
 ---
 
 <p align="center">
-<b>🚀 Dream Big • Build Smart • Win Together 🏆</b>
+<b>✨ Dream Big • Build Smart • Win Together 🏆</b>
 </p>
