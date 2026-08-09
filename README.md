@@ -254,7 +254,7 @@ Upon successful completion of the hackathon, our team aims to:
 
 ---
 
-# ♥ Team
+# 🫂 Team
 
 | Name | Role |
 |------|------|
