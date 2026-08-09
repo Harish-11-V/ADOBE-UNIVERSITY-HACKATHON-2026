@@ -254,15 +254,6 @@ Upon successful completion of the hackathon, our team aims to:
 
 ---
 
-# 🫂 Team
-
-| Name | Role |
-|------|------|
-| HARISH KUMAR V | Frontend & AI Integration |
-| LAKSHIYA SRI K M | Backend & Product Development |
-
----
-
 # 📄 License
 
 This repository is maintained exclusively for participation in the **Adobe University Hackathon 2026**.
